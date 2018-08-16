@@ -8,22 +8,15 @@ Getting Started
 ==
 
 Download Microsoft Visual Studio Express 2012 for Windows Desktop
-http://www.microsoft.com/en-us/download/details.aspx?id=34673
-
-Download Visual Studio Tools for Git
-https://visualstudiogallery.msdn.microsoft.com/abafc7d6-dcaa-40f4-8a5e-d6724bdb980c
+https://visualstudio.microsoft.com/es/vs/express/
 
 You may want to read Rick Rainey's guide for Visual Studio and GitHub
-http://rickrainey.com/2013/07/27/visual-studio-and-gitub-the-basics-of-working-with-existing-repositories-2/
+https://docs.microsoft.com/en-us/vsts/repos/git/clone?view=vsts&tabs=visual-studio
 
-Install Microsoft Visual Studio Express 2012 for Windows Desktop and update it.
-Install Visual Studio Tools for Git.
+#Instructions:
 
-Clone the project.
-
-Change the IP or DNS.
-
-Change the icon if you wish.
-
-Compile and have fun!
-
+1. Install Microsoft Visual Studio
+2. Clone the project.
+3. Change the IP or DNS.
+4. Change the icon if you wish.
+5. Compile and have fun!
