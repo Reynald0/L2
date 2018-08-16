@@ -13,7 +13,7 @@ https://visualstudio.microsoft.com/es/vs/express/
 You may want to read Rick Rainey's guide for Visual Studio and GitHub
 https://docs.microsoft.com/en-us/vsts/repos/git/clone?view=vsts&tabs=visual-studio
 
-#Instructions:
+###  Instructions:
 
 1. Install Microsoft Visual Studio
 2. Clone the project.
