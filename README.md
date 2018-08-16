@@ -19,4 +19,5 @@ https://docs.microsoft.com/en-us/vsts/repos/git/clone?view=vsts&tabs=visual-stud
 2. Clone the project, select **L2.sln** to open project
 3. Change the IP or DNS.
 4. Change the icon if you wish.
-5. Compile and have fun!
+5. Compile
+6. Copy the file "l2.bin" from **../L2/data/system** into your system folder (Lineage 2 Client)
