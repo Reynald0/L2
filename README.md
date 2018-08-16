@@ -16,7 +16,7 @@ https://docs.microsoft.com/en-us/vsts/repos/git/clone?view=vsts&tabs=visual-stud
 ###  Instructions:
 
 1. Install Microsoft Visual Studio
-2. Clone the project.
+2. Clone the project, select **L2.sln** to open project
 3. Change the IP or DNS.
 4. Change the icon if you wish.
 5. Compile and have fun!
