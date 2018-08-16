@@ -1,0 +1,1 @@
+Copy the file "l2.bin" into toy system folder (Lineage 2 Client)
